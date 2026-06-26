@@ -152,9 +152,3 @@ Steps included:
 - Interactive Dashboard
 - Real-Time Prediction API
 - Explainable AI using SHAP
-
----
-
-Interested in Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development.
-
----
